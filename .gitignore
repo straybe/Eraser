@@ -1,0 +1,45 @@
+# Archivos de usuario específicos
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Archivos de Visual Studio
+.vs/
+*.opendb
+*.sdf
+*.cachefile
+*.VC.db
+
+# Archivos de paquetes NuGet
+packages/
+*.nupkg
+
+# Archivos de proyecto .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos de configuración de la publicación
+*.PublishSettings
+*.pubxml
+*.publishproj
+
+# Otros archivos y carpetas
+node_modules/
+bower_components/
+
+# Archivos de herramientas de cobertura de código y pruebas unitarias
+*.coverage
+*.coveragexml
+TestResult.xml
